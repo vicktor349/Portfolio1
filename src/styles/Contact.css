@@ -1,0 +1,41 @@
+.body-container{
+    margin-top: 10%;
+}
+.body-container > h1{
+    text-align: center;
+}
+.mail-contact{
+   font-size: 100px;
+   padding: 30px;
+}
+.twitter-contact{
+    font-size: 100px;
+    padding: 30px;
+}
+.contact-icons{
+    text-align: center;
+    padding-top: 30px;
+}
+.telegram-contact{
+    font-size: 100px;
+    padding: 30px;
+}
+.insta-contact{
+    font-size: 100px;
+    padding: 30px;
+}
+.pipe{
+    font-size: 100px;
+}
+.mail-contact:hover{
+    border-bottom: 5px solid #fff;
+}
+.twitter-contact:hover{
+    border-bottom: 5px solid #fff;
+}
+.telegram-contact:hover{
+    border-bottom: 5px solid #fff;
+}
+.insta-contact:hover{
+    border-bottom: 5px solid #fff;
+}

@@ -1,0 +1,45 @@
+.sidenavbar-div{
+    background-color: #191919;
+}
+.profile-image{
+    max-width: 70%;
+    border-radius: 50%;
+    margin: 10px auto;
+}
+.mainsidenav-div{
+    display: flex;
+    position: relative;
+    margin: 0;
+}
+.mainsidenav-div .sidenavbar-div{
+    position: fixed;
+    width: 15%;
+    height: 100%;
+    padding: 40px 0;
+}
+.content-div{
+    margin-left: 15%;
+}
+.mainsidenav-div li{
+    list-style-type: none;
+}
+.info-class > h1{
+    font-size: 100%;
+    margin: 10px auto;
+    color: #fff;
+}
+i{
+    font-size: 100%;
+    color: #fff;
+    padding-bottom: 10px;
+}
+.gh-link{
+    color: #fff;
+    text-decoration: none;
+    margin-left: 10px;
+    font-size: 100%;
+}
+.location{
+    color: #fff;
+    padding: 10px;
+}

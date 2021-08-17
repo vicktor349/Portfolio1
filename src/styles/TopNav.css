@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@300&display=swap');
+*{
+    list-style-type: none;
+    text-decoration: none;
+    border: 0;
+    margin: 0;
+    color: #fff;
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+.list-items{
+    position: sticky;
+}
+body{
+    background-color: #212121;
+}
+.link-list{
+    display: inline-block;
+    padding: 30px;
+}
+.about-info{
+    line-height: 2rem;
+    margin-left: 20px;
+}
+.page-identifier{
+    background-color: #191919;
+    padding: 10px;
+    position: sticky;
+    top: 10%;
+    text-align: center;
+    margin-left: 0;
+}
+.language-logo{
+    text-align: center;
+    margin-top: 100px;
+    font-size: 900%;
+}
+.js-logo{
+    padding: 2%;
+}
+.react-logo{
+    padding: 2%;
+}
+.html-logo{
+    padding: 2%;
+}
+.css-logo{
+    padding: 2%;
+}
+.maintop-div{
+    position: sticky;
+}
+.navitem-div{
+    z-index: 999;
+    position: fixed;
+    width: 100%;
+    top: 0px;
+    box-shadow: 5px 2px 2px ;
+    background-color: #191919;
+}
+.js-logo:hover{
+    border-bottom: 5px solid #f0db4f;
+}
+.react-logo:hover{
+    border-bottom: 5px solid #61dafb;
+}
+.html-logo:hover{
+    border-bottom: 5px solid #e54d26;
+}
+.css-logo:hover{
+    border-bottom: 5px solid #3d8fc6;
+}
